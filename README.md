@@ -23,10 +23,12 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-- ![ScreenShot](Browser_Screenshot.jpg)
-- ![ScreenShot](Mobile_Screenshot.jpg)
+- Browser
+  ![ScreenShot](Browser_Screenshot.jpg)
+- Mobile
+  ![ScreenShot](Mobile_Screenshot.jpg)
 
 ## My process
 
