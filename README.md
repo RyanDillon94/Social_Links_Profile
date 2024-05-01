@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Social_Links_Profile\Browser_Screenshot.jpg
-- Social_Links_Profile\Browser_Screenshot.jpg
+- ![ScreenShot](Browser_Screenshot.jpg)
+- ![ScreenShot](Mobile_Screenshot.jpg)
 
 ## My process
 
