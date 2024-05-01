@@ -87,12 +87,17 @@ img {
   cursor: pointer;
   background-color: hsl(75, 94%, 57%);
   color: black;
+  transform: scale(1.1);
 }
 
+.links {
+  transition: 0.5s;
+}
 a {
   color: white;
   text-decoration: none;
 }
+
 /* Mobile view*/
 @media (max-width: 600px) {
   .outerBox {
