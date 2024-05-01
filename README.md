@@ -25,10 +25,8 @@ Users should be able to:
 
 ### Screenshots
 
-- Browser
-  ![ScreenShot](Browser_Screenshot.jpg)
-- Mobile
-  ![ScreenShot](Mobile_Screenshot.jpg)
+![ScreenShot](Browser_Screenshot.jpg)
+![ScreenShot](Mobile_Screenshot.jpg)
 
 ## My process
 
